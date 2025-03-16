@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Import-Excel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC349FF5-5C20-426F-81F2-ECF5B264444D}|Import-Excel.Domain\\Import-Excel.Domain.csproj|c:\\users\\hp\\desktop\\import-excel\\import-excel.domain\\area\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC349FF5-5C20-426F-81F2-ECF5B264444D}|Import-Excel.Domain\\Import-Excel.Domain.csproj|solutionrelative:import-excel.domain\\area\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66BE01CC-6991-4D62-9D23-993E9A370722}|Import-Excel.EndPoint\\Import-Excel.EndPoint.csproj|c:\\users\\hp\\desktop\\import-excel\\import-excel.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BE01CC-6991-4D62-9D23-993E9A370722}|Import-Excel.EndPoint\\Import-Excel.EndPoint.csproj|solutionrelative:import-excel.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Domain\\Area\\Area.cs",
+              "RelativeDocumentMoniker": "Import-Excel.Domain\\Area\\Area.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Domain\\Area\\Area.cs",
+              "RelativeToolTip": "Import-Excel.Domain\\Area\\Area.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:14:39.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.EndPoint\\Program.cs",
               "RelativeDocumentMoniker": "Import-Excel.EndPoint\\Program.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.EndPoint\\Program.cs",
               "RelativeToolTip": "Import-Excel.EndPoint\\Program.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAewJUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowHsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T08:12:40.589Z",
+              "WhenOpened": "2025-03-16T09:33:55.433Z",
               "EditorCaption": ""
             }
           ]

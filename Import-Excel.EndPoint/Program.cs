@@ -1,17 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿// فایل اصلی پروژه برای اجرا
+
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using OfficeOpenXml;
 using Import_Excel.Infrastructore.DbContext;
 using SSO.Share.Domain.Sql.Admin.Area;
-using OfficeOpenXml;
 
 namespace MainProject
 {
+    /// <summary>
+    /// این کلاس اصلی برنامه است که شامل متد اجرای است.
+    /// </summary>
     public class Program
     {
+        /// <summary>
+        /// متد اجرایی برنامه. 
+        /// </summary>
         public static void Main()
         {
             var configuration = new ConfigurationBuilder()
@@ -33,8 +37,16 @@ namespace MainProject
         }
     }
 
+    /// <summary>
+    /// این کلاس وظیفه ی دریافت داده ها و درج آن ها در Sql را دارد .
+    /// </summary>
     public class ImportExcelToSql
     {
+        /// <summary>
+        /// متد اصلی کلاس ImportExcelToSql.
+        /// </summary>
+        /// <param name="filePath">مسیر فایل اکسل .</param>
+        /// <param name="dbContext">تنها DbContext پروژه .</param>
         public static void ImportData(string filePath, ProgramDbContext dbContext)
         {
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
@@ -44,6 +56,7 @@ namespace MainProject
                 Console.WriteLine("❌ Error: Excel file not found!");
                 return;
             }
+
             // ساخت شیعی از کلاس Excel برای Read , Write , .... 
             using (var package = new ExcelPackage(new FileInfo(filePath)))
             {
@@ -59,6 +72,7 @@ namespace MainProject
                     Console.WriteLine("❌ Error: Invalid worksheet.");
                     return;
                 }
+
                 // فقط شامل هدر هستش یا نح
                 int rowCount = worksheet.Dimension.Rows;
                 if (rowCount < 2)
@@ -78,7 +92,7 @@ namespace MainProject
                     { 8, "Code (National ID)" },
                     { 10, "Score" },
                     { 11, "Ratio" },
-                    { 12, "Population" }
+                    { 12, "Population" },
                 };
 
                 var areaList = new List<Area>();
@@ -108,11 +122,17 @@ namespace MainProject
 
                         Guid? parentId = null;
                         if (!string.IsNullOrEmpty(district) && areaDict.ContainsKey(district))
+                        {
                             parentId = areaDict[district];
+                        }
                         else if (!string.IsNullOrEmpty(county) && areaDict.ContainsKey(county))
+                        {
                             parentId = areaDict[county];
+                        }
                         else if (!string.IsNullOrEmpty(province) && areaDict.ContainsKey(province))
+                        {
                             parentId = areaDict[province];
+                        }
 
                         var area = new Area
                         {
@@ -127,7 +147,7 @@ namespace MainProject
                             Score = score,
                             Ratio = ratio,
                             Population = population,
-                            Creator = Guid.Parse("26141497-EAA4-4D2F-8007-D6AE3363080C")
+                            Creator = Guid.Parse("26141497-EAA4-4D2F-8007-D6AE3363080C"),
                         };
 
                         areaList.Add(area);
@@ -160,7 +180,6 @@ namespace MainProject
                 }
             }
         }
-
         private static void PrintColumnMapping(int row, ExcelWorksheet worksheet, Dictionary<int, string> columnMappings)
         {
             Console.WriteLine($"📌 Row {row} Mapping:");

@@ -9,7 +9,8 @@
       "Import-Excel.Domain/1.0.0": {
         "dependencies": {
           "ClosedXML": "0.104.2",
-          "Microsoft.Extensions.Configuration.Json": "9.0.3"
+          "Microsoft.Extensions.Configuration.Json": "9.0.3",
+          "StyleCop.Analyzers": "1.1.118"
         },
         "runtime": {
           "Import-Excel.Domain.dll": {}
@@ -176,6 +177,7 @@
           }
         }
       },
+      "StyleCop.Analyzers/1.1.118": {},
       "System.IO.Packaging/8.0.1": {
         "runtime": {
           "lib/net8.0/System.IO.Packaging.dll": {
@@ -296,6 +298,13 @@
       "sha512": "sha512-LFQsCZlV0xlUyXAOMUo5kkSl+8zAQXXbbdwWchtk0B4o7zotZhQsQOcJUELGHdfPfm/xDAsz6hONAuV25bJaAg==",
       "path": "sixlabors.fonts/1.0.0",
       "hashPath": "sixlabors.fonts.1.0.0.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
     },
     "System.IO.Packaging/8.0.1": {
       "type": "package",
