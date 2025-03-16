@@ -96,7 +96,7 @@ namespace MainProject
                 };
 
                 var areaList = new List<Area>();
-                var areaDict = dbContext.Areas.ToDictionary(a => a.Name, a => a.id);
+                var areaDict = dbContext.Areas.ToDictionary(a => a.Name, a => a.Id);
 
                 for (int row = 2; row <= rowCount; row++)
                 {
@@ -136,7 +136,7 @@ namespace MainProject
 
                         var area = new Area
                         {
-                            id = Guid.NewGuid(),
+                            Id = Guid.NewGuid(),
                             Name = name,
                             Code = nationalId,
                             HierarchicalCode = hierarchicalCode,
@@ -151,7 +151,7 @@ namespace MainProject
                         };
 
                         areaList.Add(area);
-                        areaDict[name] = area.id;
+                        areaDict[name] = area.Id;
 
                         PrintColumnMapping(row, worksheet, columnMappings);
                     }

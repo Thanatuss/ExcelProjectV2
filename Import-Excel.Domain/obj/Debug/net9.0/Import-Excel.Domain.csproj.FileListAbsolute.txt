@@ -10,3 +10,4 @@ C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\refint\Imp
 C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.pdb
 C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\ref\Import-Excel.Domain.dll
 C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.sourcelink.json

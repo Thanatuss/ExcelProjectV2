@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Import-Excel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC349FF5-5C20-426F-81F2-ECF5B264444D}|Import-Excel.Domain\\Import-Excel.Domain.csproj|c:\\users\\hp\\desktop\\import-excel\\import-excel.domain\\area\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC349FF5-5C20-426F-81F2-ECF5B264444D}|Import-Excel.Domain\\Import-Excel.Domain.csproj|solutionrelative:import-excel.domain\\area\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{66BE01CC-6991-4D62-9D23-993E9A370722}|Import-Excel.EndPoint\\Import-Excel.EndPoint.csproj|c:\\users\\hp\\desktop\\import-excel\\import-excel.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BE01CC-6991-4D62-9D23-993E9A370722}|Import-Excel.EndPoint\\Import-Excel.EndPoint.csproj|solutionrelative:import-excel.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Infrastructore\\Migrations\\20250316103900_changeidToId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Import-Excel.Infrastructore\\Migrations\\20250316103900_changeidToId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC349FF5-5C20-426F-81F2-ECF5B264444D}|Import-Excel.Domain\\Import-Excel.Domain.csproj|c:\\users\\hp\\desktop\\import-excel\\import-excel.domain\\area\\areatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC349FF5-5C20-426F-81F2-ECF5B264444D}|Import-Excel.Domain\\Import-Excel.Domain.csproj|solutionrelative:import-excel.domain\\area\\areatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC349FF5-5C20-426F-81F2-ECF5B264444D}|Import-Excel.Domain\\Import-Excel.Domain.csproj|c:\\users\\hp\\desktop\\import-excel\\import-excel.domain\\area\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC349FF5-5C20-426F-81F2-ECF5B264444D}|Import-Excel.Domain\\Import-Excel.Domain.csproj|solutionrelative:import-excel.domain\\area\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "20250316103900_changeidToId.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Infrastructore\\Migrations\\20250316103900_changeidToId.cs",
+              "RelativeDocumentMoniker": "Import-Excel.Infrastructore\\Migrations\\20250316103900_changeidToId.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Infrastructore\\Migrations\\20250316103900_changeidToId.cs",
+              "RelativeToolTip": "Import-Excel.Infrastructore\\Migrations\\20250316103900_changeidToId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:39:00.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreaType.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Domain\\Area\\AreaType.cs",
+              "RelativeDocumentMoniker": "Import-Excel.Domain\\Area\\AreaType.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Domain\\Area\\AreaType.cs",
+              "RelativeToolTip": "Import-Excel.Domain\\Area\\AreaType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:25:21.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Area.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Domain\\Area\\Area.cs",
               "RelativeDocumentMoniker": "Import-Excel.Domain\\Area\\Area.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.Domain\\Area\\Area.cs",
               "RelativeToolTip": "Import-Excel.Domain\\Area\\Area.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T10:14:39.041Z",
+              "WhenOpened": "2025-03-16T10:24:11.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.EndPoint\\Program.cs",
               "RelativeDocumentMoniker": "Import-Excel.EndPoint\\Program.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Import-Excel\\Import-Excel.EndPoint\\Program.cs",
               "RelativeToolTip": "Import-Excel.EndPoint\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowHsAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv7sAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T09:33:55.433Z",
+              "WhenOpened": "2025-03-16T10:21:33.138Z",
               "EditorCaption": ""
             }
           ]

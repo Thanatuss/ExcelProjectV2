@@ -15,3 +15,4 @@ C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\re
 C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.pdb
 C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.genruntimeconfig.cache
 C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\ref\Import-Excel.Infrastructore.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.sourcelink.json
