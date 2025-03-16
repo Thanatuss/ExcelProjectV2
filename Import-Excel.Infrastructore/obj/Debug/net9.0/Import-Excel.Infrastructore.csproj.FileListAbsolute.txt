@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\bin\Debug\net9.0\Import-Excel.Infrastructore.deps.json
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\bin\Debug\net9.0\Import-Excel.Infrastructore.runtimeconfig.json
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\bin\Debug\net9.0\Import-Excel.Infrastructore.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\bin\Debug\net9.0\Import-Excel.Infrastructore.pdb
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\bin\Debug\net9.0\Import-Excel.Domain.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\bin\Debug\net9.0\Import-Excel.Domain.pdb
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.AssemblyInfo.cs
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-E.C783052A.Up2Date
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\refint\Import-Excel.Infrastructore.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.pdb
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\Import-Excel.Infrastructore.genruntimeconfig.cache
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Infrastructore\obj\Debug\net9.0\ref\Import-Excel.Infrastructore.dll

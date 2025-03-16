@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\bin\Debug\net9.0\Import-Excel.Domain.deps.json
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\bin\Debug\net9.0\Import-Excel.Domain.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\bin\Debug\net9.0\Import-Excel.Domain.pdb
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\refint\Import-Excel.Domain.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.pdb
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\ref\Import-Excel.Domain.dll
+C:\Users\HP\Desktop\Import-Excel\Import-Excel.Domain\obj\Debug\net9.0\Import-Excel.Domain.csproj.AssemblyReference.cache
